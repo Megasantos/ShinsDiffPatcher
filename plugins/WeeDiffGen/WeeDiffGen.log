@@ -1,0 +1,164 @@
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGUseSSOLoginPacket\WDGUseSSOLoginPacket.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGUsePlainTextDescriptions :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGUseNormalGuildBrackets :: Part 1 :: Cannot find .rdata section!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGUseCustomFont\WDGUseCustomFont.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGCustomAuraSprites :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGUseArialOnAllLangtypes :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGTranslateClientIntoEnglish :: Translate Delete Time :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGTranslateClientIntoEnglish :: Translate Message Box :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGTranslateClientIntoEnglish :: Translate Character Slot Usage :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGTranslateClientIntoEnglish :: Translate Make Character Window Title :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGTranslateClient\WDGTranslateClient.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGSkipServiceSelect :: Part 1 :: Cannot find .rdata section!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGSkipRessurectionButtons :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGSkipPacketHeaderObfuscation\WDGSkipPacketHeaderObfuscation.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGSkipLicenseScreen :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGSkipPacketHeaderObfuscation :: Part 2 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGSharedHeadPalettes\WDGSharedHeadPalettes.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGSharedBodyPalettes\WDGSharedBodyPalettes.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGScreenshotQuality\WDGScreenshotQuality.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDRestoreLoginWindow :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGRemoveSerialDisplay :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGRemoveQuakeSkillEffect\WDGRemoveQuakeSkillEffect.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGRemoveLoginErrorCode\WDGRemoveLoginErrorCode.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGRemoveLoginAutoClose :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGRemoveHourlyPlaytimeMinder\WDGRemoveHourlyPlaytimeMinder.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGRemoveHourlyGameGrade\WDGRemoveHourlyGameGrade.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGRemoveGravityLogo :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGRemoveGravityAds :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGReadQuestTable :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGReadMsgStringTable :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGReadDataFolderFirst :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGOnlySecondLoginBackground :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGOnlyFirstLoginBackground :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGLoadLUABeforeLUB :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGLoadCustomDll :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGIncreaseZoomOutMax :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGIncreaseZoomOut75Per :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGIncreaseZoomOut50Per :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGIncreaseHeadgearViewID :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGIgnoreMissingPaletteErrors :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGIgnoreMissingFileErrors :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGHKMtoHKCU :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGForceClientHashPacket :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGFixCameraAnglesMedium :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGFixCameraAnglesLess :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGFixCameraAnglesFull :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGExtendedPMBox :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGExtendedNPCDialog\WDGExtendedNPCDialog.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGExtendedChatRoomBox :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGExtendedChatBox :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnforceOfficialLoginBackground :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnableTitleBarMenu :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnableProxySupport\WDGEnableProxySupport.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnableOfficialCustomFonts :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnableMultipleGRF :: Part 2 :: Cannot find .rdata section!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnableDNSSupport :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnableCustom3DBones\WDGEnableCustom3DBones.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnableAuraOverLvl99AndLvl150 :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnable127Hairstyles :: Part 1 :: No matching data found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGDisableSwearFilter :: Part 1 :: No matching data found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnableMultipleGRF :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGDisableHallucinationWavyScreen :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnableAsciiInText\WDGEnableAsciiInText.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGDisableFilenameCheck :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGDisable4LetterUserCharacterLimit :: Part 1 :: No matching data found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGEnable64kHairstyles\WDGEnable64kHairstyles.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGDisableMultipleWindows :: Part 3 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGDisable4LetterUserIDLimit :: Part 1 :: No matching data found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGDisable4LetterUserCharacterLimit :: Part 1 :: No matching data found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGDisable1rag1 :: Part 1 :: Cannot find .rdata section!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGDisableHShield\WDGDisableHShield.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGCustomWindowTitle :: Part 2 :: Cannot find .rdata section!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGChatColorSelf\WDGChatColorSelf.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGChatColorParty\WDGChatColorParty.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGChatColorNormal\WDGChatColorNormal.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGChatAtBug :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGAlwaysCallSelectKoreaClientInfo :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGAllowMultipleWindows :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGAllowChatFlood :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGChatColorGuild\WDGChatColorGuild.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:04 GMT :: 20120821 :: WDGChatColorGM\WDGChatColorGM.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGUseSSOLoginPacket\WDGUseSSOLoginPacket.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGUsePlainTextDescriptions :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGUseNormalGuildBrackets :: Part 1 :: Cannot find .rdata section!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGUseCustomFont\WDGUseCustomFont.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGCustomAuraSprites :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGUseArialOnAllLangtypes :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGTranslateClientIntoEnglish :: Translate Delete Time :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGTranslateClientIntoEnglish :: Translate Message Box :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGTranslateClientIntoEnglish :: Translate Character Slot Usage :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGTranslateClientIntoEnglish :: Translate Make Character Window Title :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGTranslateClient\WDGTranslateClient.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGSkipServiceSelect :: Part 1 :: Cannot find .rdata section!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGSkipRessurectionButtons :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGSkipPacketHeaderObfuscation\WDGSkipPacketHeaderObfuscation.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGSkipLicenseScreen :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGSkipPacketHeaderObfuscation :: Part 2 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGSharedHeadPalettes\WDGSharedHeadPalettes.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGSharedBodyPalettes\WDGSharedBodyPalettes.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGScreenshotQuality\WDGScreenshotQuality.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDRestoreLoginWindow :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGRemoveSerialDisplay :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGRemoveQuakeSkillEffect\WDGRemoveQuakeSkillEffect.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGRemoveLoginErrorCode\WDGRemoveLoginErrorCode.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGRemoveLoginAutoClose :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGRemoveHourlyPlaytimeMinder\WDGRemoveHourlyPlaytimeMinder.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGRemoveHourlyGameGrade\WDGRemoveHourlyGameGrade.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGRemoveGravityLogo :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGRemoveGravityAds :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGReadQuestTable :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGReadMsgStringTable :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGReadDataFolderFirst :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGOnlySecondLoginBackground :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGOnlyFirstLoginBackground :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGLoadLUABeforeLUB :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGLoadCustomDll :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGIncreaseZoomOutMax :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGIncreaseZoomOut75Per :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGIncreaseZoomOut50Per :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGIncreaseHeadgearViewID :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGIgnoreMissingPaletteErrors :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGIgnoreMissingFileErrors :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGHKMtoHKCU :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGForceClientHashPacket :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGFixCameraAnglesMedium :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGFixCameraAnglesLess :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGFixCameraAnglesFull :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGExtendedPMBox :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGExtendedNPCDialog\WDGExtendedNPCDialog.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGExtendedChatRoomBox :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGExtendedChatBox :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnforceOfficialLoginBackground :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnableTitleBarMenu :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnableProxySupport\WDGEnableProxySupport.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnableOfficialCustomFonts :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnableMultipleGRF :: Part 2 :: Cannot find .rdata section!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnableDNSSupport :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnableCustom3DBones\WDGEnableCustom3DBones.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnableAuraOverLvl99AndLvl150 :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnable127Hairstyles :: Part 1 :: No matching data found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGDisableSwearFilter :: Part 1 :: No matching data found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnableMultipleGRF :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGDisableHallucinationWavyScreen :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnableAsciiInText\WDGEnableAsciiInText.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGDisableFilenameCheck :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGDisable4LetterUserCharacterLimit :: Part 1 :: No matching data found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGEnable64kHairstyles\WDGEnable64kHairstyles.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGDisableMultipleWindows :: Part 3 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGDisable4LetterUserIDLimit :: Part 1 :: No matching data found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGDisable4LetterUserCharacterLimit :: Part 1 :: No matching data found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGDisable1rag1 :: Part 1 :: Cannot find .rdata section!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGDisableHShield\WDGDisableHShield.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGCustomWindowTitle :: Part 2 :: Cannot find .rdata section!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGChatColorSelf\WDGChatColorSelf.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGChatColorParty\WDGChatColorParty.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGChatColorNormal\WDGChatColorNormal.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGChatAtBug :: Part 1 :: Failed to find matching data!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGAlwaysCallSelectKoreaClientInfo :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGAllowMultipleWindows :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGAllowChatFlood :: Part 1 :: Section not found!
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGChatColorGuild\WDGChatColorGuild.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:21:31 GMT :: 20120821 :: WDGChatColorGM\WDGChatColorGM.cpp :: Image is not sane.
+Sat, 27 Apr 2013 18:33:20 GMT :: 20120618 :: WDGEnable127Hairstyles :: Part 1 :: There have to be at least 2 matches!
+Sat, 27 Apr 2013 18:33:21 GMT :: 20120618 :: WDGAllowMultipleWindows :: Part 1 :: Failed to find matching data!

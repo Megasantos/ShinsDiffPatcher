@@ -1,0 +1,357 @@
+// WDGTranslateClient.txt
+//
+// == Format =============================================================
+//
+// Only comments recognized are lines prefixed with '//'. Indented
+// and trailing comments are not supported.
+//
+// Each translation is a set of two lines, the earlier being the
+// original text (CP949, EUC-KR is fine too; UNICODE/UTF-8 is not)
+// and the latter being the translation to place into the client.
+//
+// The length of the translation is limited to the length of the
+// original string plus 1 aligned to be multiple of 4, minus 1.
+//
+// Example:
+// - "asdf" = 4 +1 (zero termination of the string) = 5
+// - Next multiple of 4 for 5 is 8 (2x4)
+// - 8 -1 = 7 characters usable for translation string
+//
+// Lines to look for start with 'F:', lines with replacement string
+// start with 'R:'. The line syntax is the same as the one used for
+// matches within the plugins. That is, literal strings are enclosed
+// in ' everything else is interpreted as hexadecimal bytes.
+//
+// Example:
+// |   // Bytes can be separated by spaces...
+// |   F:C4 C9 B8 AF C5 CD 20 B8 B8 B5 E9 B1 E2
+// |   R:'Make Character'
+// |
+// |   // ...but do not need to.
+// |   F:28C4B3B8AFC5CD2FC3D120BDBDB7D429
+// |   R:'(Used / Total)'
+//
+// Do not use byte 00 at the end of strings, as it is appended auto-
+// magically. Do not use it within strings either, unless you have a
+// really good reason to do so.
+//
+// Partial strings are not matched, the original string is always
+// assumed to be complete. Since mismatches are still likely to
+// occur for shorter strings, place longer strings at the beginning
+// and the short ones and the end of the file.
+//
+// == Topic ==========================================================
+// http://rathena.org/board/topic/71122-project-2012-client-translation
+// Thanks to @nanakiwurtz
+//
+// == Changelog ==========================================================
+//
+// -- 1.0 --
+// First release.																			[Ai4rei/Shinryo]
+//
+// -- 1.1 --
+// ADD: 12 translations.																			[Swadon]
+//
+// -- 1.2 --
+// FIX: 2 errors due to the length of the replacement string.	[Swadon]
+// ADD: Topic link above.
+//
+// =======================================================================
+
+// == Ai4rei/Shinryo =====================================================
+
+// Translate Delete Time
+F:2564BFF9202564C0CF202564BDC3202564BAD0202564C3CA
+R:'Delete: %d/%d - %d:%d:%d'
+
+F:2564B3E2202564BFF9202564C0CF202564BDC3202564BAD0202564C3CA20
+R:'%d/%d/%d - %d:%d:%d'
+
+// Translate Message Box
+F:B8DEBDC3C1F6
+R:'Message'
+
+// Translate Character Slot Usage
+F:28C4B3B8AFC5CD2FC3D120BDBDB7D429
+R:'(Used / Total)'
+
+// Translate Make Character Window Title
+F:C4C9B8AFC5CD20B8B8B5E9B1E2
+R:'Make Character'
+
+// Navigation Window (Type anything here)
+F:B0CBBBF620B4DCBEEE20BCB3C1A4202845783A20B4DCBEEE20B4DCBEEE202E2E2E
+R:'Type anything here'
+
+// Navigation Window (Find)
+F:B0CBBBF6
+R:'Find'
+
+// Navigation Window (Back to navigation)
+F:B1E620C1A4BAB800B8F1C7A5B7CE20BEC8B3BB
+R:'Back to Navigation'
+
+// Navigation Window (View List)
+F:B0CBBBF620C1A4BAB8
+R:'View List'
+
+// Navigation Window (Toggle Minimap)
+F:BAB8B1E220B8F0B5E520BAAFB0E6
+R:'Toggle Minimap'
+
+// Video Configuration (More)
+F:C0FCC0E5
+R:'More'
+
+// Sound Configuration
+F:C0FCC0E5
+R:'More'
+
+// Monster Element (Shadow)
+F:BCF6BCD3BCBA
+R:'Shdw'
+
+// Monster Element (Earth)
+F:C1F6BCD3BCBA
+R:'Earth'
+
+// Monster Element (Water)
+F:BECFBCD3BCBA
+R:'Water'
+
+// Monster Element (Fire)
+F:C8ADBCD3BCBA
+R:'Fire'
+
+// Monster Element (Ghost)
+F:BFB0BCD3BCBA
+R:'Ghost'
+
+// Monster Element (Wind)
+F:C7B3BCD3BCBA
+R:'Wind'
+
+// Monster Element (Pois)
+F:B5B6BCD3BCBA
+R:'Pois'
+
+// Monster Element (Holy)
+F:BCBABCD3BCBA
+R:'Holy'
+
+// Monster Element (Und)
+F:BEF0B5A5B5E5
+R:'Und'
+
+// Monster Element (Neutr)
+F:B9ABBCD3BCBA
+R:'Neutr'
+
+// Monster Size (Big)
+F:B4EBC7FC
+R:'Big'
+
+// Monster Size (Med)
+F:C1DFC7FC
+R:'Med'
+
+// Monster Size (Smal)
+F:BCD2C7FC
+R:'Smal'
+
+// Monster Race (Demon)
+F:BEC7B8B6C7FC
+R:'Demon'
+
+// Monster Race (Demi-H)
+F:C0CEB0A3C7FC
+R:'Demi-H'
+
+// Monster Race (Form)
+F:B9ABC7FC
+R:'Form'
+
+// Monster Race (Undead)
+F:BAD2BBE7C7FC
+R:'Undead'
+
+// Monster Race (Plant)
+F:BDC4B9B0C7FC
+R:'Plant'
+
+// Monster Race (Fish)
+F:BEEEC6D0C7FC
+R:'Fish'
+
+// Monster Race (Brute)
+F:B5BFB9B0C7FC
+R:'Brute'
+
+// Monster Race (Angel)
+F:C3B5BBE7C7FC
+R:'Angel'
+
+// Monster Race (Insect)
+F:B0EFC3E6C7FC
+R:'Insect'
+
+// Monster Race (Drag)
+F:BFEBC1B7
+R:'Drag'
+
+// Monster Type (Mob)
+F:28C0CFB9DD29
+R:'(Mob)'
+
+// Monster Type (Boss)
+F:28BAB8BDBA29
+R:'(Boss)'
+
+// Navigation Window (chat info)
+F:BEC8B3BBC7CFB4C220C0A7C4A1B7CE20C0CCB5BFC7CFBDC3B1E220B9D9B6F8B4CFB4D92E
+R:'To find the location, please go to'
+
+// Navigation Window (chat info)
+F:BFF6C7C1B8A620C0CCBFEBC7CFBFA920B4D9C0BD20C1F6BFAAC0B8B7CE20C0CCB5BFC7CFBDC3B1E220B9D9B6F8B4CFB4D92E
+R:'Using the warp to the next area, please click to go'
+
+// Navigation Window (chat info)
+F:B8F1C7A520B8CABFA120B5B5C2F8C7CFBFB4BDC0B4CFB4D92E
+R:'Arrived at the target map'
+
+// Navigation Window (chat info)
+F:C3A3B0EDC0DA20C7CFB4C2204E7063B0A120C0D6B4C220B8CABFA120B5B5C2F820C7CFBFB4BDC0B4CFB4D92E204E7063B7CE20C0CCB5BFC7CFBDC3B1E220B9D9B6F8B4CFB4D92E
+R:'Arrived on the map that has the Npc your looking for. Go to that NPC'
+
+// Other
+F:B5B5C2F820C1F6C1A1BFA120B4EBC7D120C1A4BAB820BCB3C1A420BDC7C6D0
+R:'Failed to set info for location'
+
+// Other
+F:B8F1C7A5B8A620C1F6C1A420C7CFBDC3B1E220B9D9B6F8B4CFB4D9
+R:'Please specify target goals'
+
+// Other
+F:B1E620BEC8B3BBB0A120BDC3C0DB20B5C7BEFABDC0B4CFB4D9
+R:'Directions were started'
+
+// Other
+// @Swadon: I add '2E' at the end of the string to find because it was too short compared to the string replacement (1 char)
+F:C3A3B0EDC0DA20C7CFB4C220B8F3BDBAC5CDB0A120C0D6B4C220B8CA20C0D4B4CFB4D92E
+R:'Is the map that your looking for mob'
+
+// Other
+F:BAF1B0F8C1A4C0B8B7CE20C0CCB5BF20C7CFBDC3B1E220B9D9B6F8B4CFB4D9
+R:'Please go to the airship'
+
+// Other
+F:B8CA28257329C0B8B7CE20C0CCB5BFC7CFBDC3B1E220B9D9B6F8B4CFB4D9
+R:'(%s) map, please move to'
+
+// Other
+F:BEC8B3BBC7CFB4C220257328C0BB29B8A620C0CCBFEBC7CFBFA9
+R:'Guidance to %s (A) By using'
+
+// Other
+F:BEC8B3BBC1DF20C0D4B4CFB4D92120C1BEB7E120C7CFBDC3B0DABDC0B4CFB1EE3F
+R:'Do you want to cancel navigation?'
+
+// Other
+F:B4F8C0FCC0CCB5BF20BDBAC5A9B7D120BBE7BFEB20C0FBBFEB
+R:'Mouse Over'
+
+// Other
+F:C0A7C4A120C0CCB5BF20BCADBAF1BDBA20C7E3BFEB
+R:'Mouse Over'
+
+// Other
+F:BAF1B0F8C1A420C0CCB5BF20C0FBBFEB
+R:'Mouse Over'
+
+// == Swadon =============================================================
+
+// Contributor: @nanakiwurtz
+// Location: Navigation -> After NPC has been reached.
+// Find: µµÂø. [B5B5C2F82E]
+// Replacement: Found [466F756E64]
+F:B5B5C2F82E
+R:466F756E64
+
+// Contributor: @nanakiwurtz
+// Location: World Map -> Character's Location
+// Find: ¡Ú [A1DA]
+// Replacement: You [596F75]
+// Note: I add '00' because there is many results for 'A1DA'
+F:A1DA00
+R:596F75
+
+// Contributors: @gaga / @TrueNoir
+// Location: Navigation -> Start to search an npc
+// Find: ±æ Ã£±â ½ÇÆÐ [B1E620C3A3B1E220BDC7C6D0]
+// Replacement: Path Failure [50617468204661696C757265]
+F:B1E620C3A3B1E220BDC7C6D0
+R:'Path Failure'
+
+// Contributor: @TrueNoir
+// Location: Navigation
+// Find: ÇØ´ç ¸ÊÀº ±æÃ£±â°¡ Áö¿ø µÇÁö ¾Ê´Â ¸ÊÀÔ´Ï´Ù..ÇöÀç ¸Ê ÀÌµ¿ °æ·Î Ã£±â ½ÇÆÐ.ÇÃ·¹ÀÌ¾î À§Ä¡ Ã£±â ½ÇÆÐ [5061746866696E64696E6720646F6573206E6F7420737570706F72742074686973206D61702E204661696C656420746F2066696E64207061746820746F206D6F76652066726F6D2063757272656E74206C6F636174696F6E2E]
+// Replacement: Pathfinding does not support this map. Failed to find path to move from current location. [5061746866696E64696E6720646F6573206E6F7420737570706F72742074686973206D61702E204661696C656420746F2066696E64207061746820746F206D6F76652066726F6D2063757272656E74206C6F636174696F6E2E]
+F:5061746866696E64696E6720646F6573206E6F7420737570706F72742074686973206D61702E204661696C656420746F2066696E64207061746820746F206D6F76652066726F6D2063757272656E74206C6F636174696F6E2E
+R:'Pathfinding does not support this map. Failed to find path to move from current location.'
+
+// Contributor: @ossi0110
+// Location: Unknown
+// Find: ======= ±æ ¾È³» Á¤º¸ ======= [3D3D3D3D3D3D3D20B1E620BEC8B3BB20C1A4BAB8203D3D3D3D3D3D3D]
+// Replacement: ======= Guidance ======= [3D3D3D3D3D3D3D2047756964616E6365203D3D3D3D3D3D3D]
+F:3D3D3D3D3D3D3D20B1E620BEC8B3BB20C1A4BAB8203D3D3D3D3D3D3D
+R:'======= Guidance ======='
+
+// Contributor: @ossi0110
+// Location: Unknown
+// Find: ¸ñÇ¥   : %s(%s)ÀÏ¹Ý [B8F1C7A52020203A2025732825732900C0CFB9DD]
+// Replacement: %s(%s)General [25732825732947656E6572616C]
+F:B8F1C7A52020203A2025732825732900C0CFB9DD
+R:'%s(%s)General'
+
+// Contributor: @ossi0110
+// Location: Unknown
+// Find: ¸ñÇ¥   : [B8F1C7A52020203A]
+// Replacement: Goal : [25732825732947656E6572616C]
+F:B8F1C7A52020203A
+R:'Goal :'
+
+// Contributor: @ossi0110
+// Location: Unknown
+// Find: ¸ñÇ¥¸Ê: [B8F1C7A5B8CA3A]
+// Replacement: Coords [436F6F726473]
+F:B8F1C7A5B8CA3A
+R:'Coords'
+
+// Contributor: @ossi0110
+// Location: Unknown
+// Find: ======== °á°ú Á¤º¸ ========== [3D3D3D3D3D3D3D3D20B0E1B0FA20C1A4BAB8203D3D3D3D3D3D3D3D3D3D]
+// Replacement: ======== Results ========== [3D3D3D3D3D3D3D3D20526573756C7473203D3D3D3D3D3D3D3D3D3D]
+F:3D3D3D3D3D3D3D3D20B0E1B0FA20C1A4BAB8203D3D3D3D3D3D3D3D3D3D
+R:'======== Results =========='
+
+// Contributor: @ossi0110
+// Location: Unknown
+// Find: °Å¸® [B0C5B8AE]
+// Replacement: Distance [44697374616E6365]
+// @Swadon: I replace 'Distance' by 'Dist' because there was an error due to the length of the replacement string ('°Å¸®' = 4 chars and 'Distance' = 8 chars)
+F:B0C5B8AE
+R:'Dist'
+
+// Contributor: @ossi0110
+// Location: Unknown
+// Find: == °Ë»ö °á°ú(%d)== [003D3D20B0CBBBF620B0E1B0FA282564293D3D]
+// Replacement: == Found (%d) == [3D3D20466F756E642028256429203D3D]
+F:003D3D20B0CBBBF620B0E1B0FA282564293D3D
+R:'== Found (%d) =='
+
+// Contributor: @Swadon
+// Location: Navigation -> When you click on a minimap icon
+// Find: °¡¸®Å°´Â ¹æÇâÀ¸·Î °¡½Ã±â ¹Ù¶ø´Ï´Ù. [B0A1B8AEC5B0B4C220B9E6C7E2C0B8B7CE20B0A1BDC3B1E220B9D9B6F8B4CFB4D92E]
+// Replacement: Follow the direction indicated. [466F6C6C6F772074686520646972656374696F6E20696E646963617465642E]
+F:B0A1B8AEC5B0B4C220B9E6C7E2C0B8B7CE20B0A1BDC3B1E220B9D9B6F8B4CFB4D92E
+R:'Follow the direction indicated.'

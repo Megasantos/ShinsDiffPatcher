@@ -1,4 +1,4 @@
 ShinsDiffPatcher
 ================
 
-ShinsDiffPatcher
+ShinsDiffPatcher compatível com Ragexe

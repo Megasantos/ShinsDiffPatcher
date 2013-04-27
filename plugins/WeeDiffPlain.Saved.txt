@@ -1,0 +1,21 @@
+[Fix]_Y_Chat @ Bug (Recommended)
+[Fix]_Y_Disable Ragexe Filename Check (Recommended)
+[UI]_Y_Fix Camera Angles Medium (Recommended)
+[UI]_Y_Only First Login Background
+[UI]_Y_Remove Gravity Ads
+[UI]_Y_Remove Gravity Logo
+[UI]_Y_Translate Client Into English (Recommended)
+[UI]_Y_Use Ragnarok Icon
+[Fix]_Y_Always Call SelectKoreaClientInfo() (Recommended)
+[Fix]_Y_Disable 1rag1 (Recommended)
+[Data]_Y_Use Plain Text Descriptions (Recommended)
+[UI]_Y_Use Normal Guild Brackets
+[UI]_Y_Remove Serial Display (Recommended)
+[UI]_Y_Remove Hourly GameGrade
+[Data]_Y_Read questid2display.txt (Recommended)
+[Data]_Y_Read msgstringtable.txt (Recommended)
+[Data]_(HG)_Increase Headgear ViewID to 30000
+[UI]_Y_Enforce Offical Login Background (Recommended)
+[Fix]_Y_Skip Packet Header Obfuscation (Recommended)
+[Fix]_Y_Restore Login Window (Recommended)
+[Data]_Y_Disable Hshield [Incomplete] (Recommended)
